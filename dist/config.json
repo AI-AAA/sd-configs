@@ -67,7 +67,7 @@
     "sd_model_checkpoint": "grapefruitHentaiModel_grapefruitv4.safetensors",
     "sd_checkpoint_cache": 0,
     "sd_vae_checkpoint_cache": 0,
-    "sd_vae": "nai.vae.pt",
+    "sd_vae": "naifu.vae.pt",
     "sd_vae_as_default": true,
     "inpainting_mask_weight": 1.0,
     "initial_noise_multiplier": 1.0,
