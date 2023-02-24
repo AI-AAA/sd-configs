@@ -325,7 +325,7 @@
     "customscript/prompt_travel.py/txt2img/Ext. depth-image-io (for depth2img models)/visible": true,
     "customscript/prompt_travel.py/txt2img/Ext. depth-image-io (for depth2img models)/value": false,
     "img2img/Prompt/visible": true,
-    "img2img/Prompt/value": "masterpiece, best quality, 1 blue hair girl sitting on the couch, white shirt,blue skirt,futanari",
+    "img2img/Prompt/value": "masterpiece, best quality, 1 blue hair girl sitting on the couch,1 eyes closed, white shirt,blue skirt,yellow eyes,bare thighs,white socks,futanari",
     "img2img/Negative prompt/visible": true,
     "img2img/Negative prompt/value": "EasyNegative, extra fingers,fewer fingers",
     "img2img/Styles/visible": true,
