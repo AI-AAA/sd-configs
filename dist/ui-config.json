@@ -182,7 +182,7 @@
     "customscript/additional_networks.py/txt2img/TEnc Weight 5/maximum": 2.0,
     "customscript/additional_networks.py/txt2img/TEnc Weight 5/step": 0.05,
     "customscript/controlnet.py/txt2img/Enable/visible": true,
-    "customscript/controlnet.py/txt2img/Enable/value": false,
+    "customscript/controlnet.py/txt2img/Enable/value": true,
     "customscript/controlnet.py/txt2img/Invert Input Color/visible": true,
     "customscript/controlnet.py/txt2img/Invert Input Color/value": false,
     "customscript/controlnet.py/txt2img/RGB to BGR/visible": true,
